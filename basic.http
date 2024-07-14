@@ -1,0 +1,19 @@
+##########
+GET http://localhost:8000/get
+
+#########
+GET http://localhost:8080/particular/1
+
+########
+DELETE http://localhost:8080/remove/2
+
+#####
+GET http://localhost:8080/getall
+
+######
+GET http://localhost:8080/particularone/7
+
+######
+PUT http://localhost:8080/update
+
+########
